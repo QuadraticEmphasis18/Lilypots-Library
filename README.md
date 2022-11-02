@@ -1,108 +1,49 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Lilypot's Library#
+*This is so much more than just a library on wheels.* 
 
-Welcome USER_NAME,
+#UX/UE:#
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+##Why do we need Lilypot's Library?##
+The need for a project like this to come to fruition has been driven by the heartbreaking year-on-year closures of stationary libraries, the economic cost of illiteracy rates and the lack of access to such facilities in neglected communities all over the country. This is about the future and we cannot keep making the same mistakes for the next generation to inherit. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+##What should users take away from this website?##
+This is where communities can engage with each other, arrange meetings to acquire information about further learning opportunities and support they require to achieve this. This is also for parents who for whatever reason do not have the funds to get their kids off to a great start with their nutrition by partnering with local food banks. These same kids can return to us after school to take part in homework club and other extra-curricular activities. We will give everyone access to resources they need to complete studies and tasks. 
 
-## Gitpod Reminders
+#Why did I use the technologies?#
+Firstly, I used html and css because these are mandatory requirements but I have also tried to include various bits and bobs from Bootstrap to differentiate between my own project and that of the walkthroughs I've done. They have been acknowledged at the bottom of this readme file.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+#Project Challenges & Features:#
+The biggest challenge with this project was having to put this together in a matter of days after the previous client both pulled out and killed the project. Now I see why my mentor suggested a fortnight as a comfortable amount of time. 
 
-`python3 -m http.server`
+The second biggest challenge were the tiny errors I made when I tried running the editor and the webpage was blank. They were small enough to fix and yet their impact superseeded their size. I soon realised it was because I didn't have links to the pages and later my css contained in the assets directory.
 
-A blue button should appear to click: _Make Public_,
+The third biggest challenge were the image links failing to work. I worked backwards from the problem and googled how to acquire a jpeg/png link and then when that didn't work I went straight back to where they were stored only to find they'd vanished. Odd I thought, so I reuploaded them and now they work. Thank goodness for small victories, eh? It's a good job I weirdly enjoy de-pickling my own bugs. 
 
-Another blue button should appear to click: _Open Browser_.
+Features I would install would probably be: the opportunity to allow users to have an account with us where it would detail a personalised overview of what it is they personally require from us. It would include information about interests, time constraints (working-childcare-free time), whether they have a learning difficulty and need additional support, and pick which purpose point applies to their needs. I've yet to acquire these technical skills but I'd be more than happy to return at a later date and apply them. I'd also have a donation tab tacked onto the sign-up page for users to contribute if they wanted to. It's worth pointing out at this stage that e-commerce skills have yet to be mastered. This wouldn't be the only source of income, the mobile library would welcome as sharing the refurbishing build of the fleet of buses on social media would establish an early-interest in the business. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#Build Status:
 
-A blue button should appear to click: _Make Public_,
+#Code Style:
 
-Another blue button should appear to click: _Open Browser_.
+#Screenshots:
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+#Tech/Framework used:
 
-To log into the Heroku toolbelt CLI:
+#Features:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#Code Examples:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#Installation:
 
-------
+#Tests:
 
-## Release History
+#How To Use?
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+#Contribute:
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+#Credits:
+I wanted to combine the warmth of one walkthrough project on this Code Institute course with the structure and simple design features of another:
+Coder's Coffeehouse - The warmth and friendly nature of a coffeehouse. 
+Love Running - The simple and effective structure with easy navigational links. 
+For the cards, they are by my grandma's extraordinarily artistic hand. I wish I was naturally inbued with her level of talent but some things cannot be taught. 
+For the main image on index.html, I have my parents to thank for that because my list of 20 images did not project the message I wanted it to carry. The one they helped me decide to use I initially showed to them for no other reason than I thought it was punny (not a typo). 
