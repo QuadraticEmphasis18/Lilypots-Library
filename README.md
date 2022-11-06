@@ -47,3 +47,5 @@ Coder's Coffeehouse - The warmth and friendly nature of a coffeehouse.
 Love Running - The simple and effective structure with easy navigational links. 
 For the cards, they are by my grandma's extraordinarily artistic hand. I wish I was naturally inbued with her level of talent but some things cannot be taught. 
 For the main image on index.html, I have my parents to thank for that because my list of 20 images did not project the message I wanted it to carry. The one they helped me decide to use I initially showed to them for no other reason than I thought it was punny (not a typo). 
+circle-cover-bg photo credit to <a href="https://unsplash.com/@jamie452?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jamie Street</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+hero-image photo credit to Gerd Altmann from Pixabay.  

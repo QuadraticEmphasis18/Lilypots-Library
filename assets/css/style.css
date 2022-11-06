@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair|Poppins:300');
+@import url('https://fonts.googleapis.com/css?family=Poppins|Playfair:300');
 
 *{
     margin:0;
@@ -9,10 +9,11 @@
 body{
     font-family: Playfair, sans-serif;
     color: #3a3a3a;
+    background-color: #C9A9A6;
 }
 
 h1, h2{
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Poppins, serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
@@ -54,6 +55,14 @@ h1, h2{
 
 /* Hero image and cover text */
 
+#cover-text{
+    height: 300px;
+    width: 300px;
+    float: left;
+    font-size: 130%;
+  font-family: Lato;
+}
+
 #hero-outer{
     height:600px;
     width: 100%;
@@ -64,7 +73,7 @@ h1, h2{
 #hero-image{
     height:600px;
     width: 100%;
-    background: url("https://drive.google.com/file/d/1SQmrGl9U7-UzUAWpVA-x0Vm-rm6_KS-9/view?usp=share_link") no-repeat center center;
+    background: url("https://lh4.googleusercontent.com/G7tgDEhGCnZWcbaJrsRcBCMJajdJPfUOSjYCPsKbMMtIGxpgfg2qcBKzN05hGzLRAaw=w2400") no-repeat center center;
 
     /* Animates zoom effect on loading the page */
     animation-name: hero-zoom;
@@ -86,6 +95,15 @@ h1, h2{
 
 #library-ethos{
     height: 600px;
+}
+
+#library-ethos h2 {
+    color:#000;
+    text-align: center;
+}
+
+#library-ethos hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 #left-about{
@@ -135,7 +153,7 @@ hr {
     text-align: right;
 }
 
-/* Club ethos center image */
+/* Library ethos center image */
 
 #welcome {
     margin: 20px 0;
@@ -146,57 +164,139 @@ hr {
 #circle-container {
     width: 300px;
     height: 300px;
-    padding: 30px;
     border-style: solid;
-    border-color: #cccccc;
+    border-color: #C9A9A6;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
 }
 
 #circle-cover-bg {
-    background: url("https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80") no-repeat center center;
+    background: url("https://lh5.googleusercontent.com/3Q_XOO-XsOvWhj35_akowLpniFGzL0AIpUgk7UVCGgsydyAXz3Z2yfKw5qNMnv6NMRI=w2400") no-repeat center center;
     height: 100%;
     border-radius: 50%;
-    zoom: 50%;
+    zoom: 100%;
 }
 
-/* Event times */
-
-#times{
-    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+/* Events */
+#events div {
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
-}
-
-#times div {
-    color: #fafafa;
-    background-color: rgba(0,0,0, .6);
-    width: 20%;
+    background-color: #fafafa;
     height: 300px;
+    width: 20%;
+    background-position: left;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 1px solid #000;
     box-sizing: border-box;
 }
 
-#times h2 {
-    color: #fafafa;
+#breakfast {
+    background: url(../images/breakfast-club.jpg);
+    height: 200px;
+    width: 15%;
+    padding: 30px 0 0 10px;
+    zoom: 90%;
+    color: #000;
+    text-align: center;   
 }
+
+#breakfast h2 {
+    color: #000;
+    text-align: center;
+}
+
+#programmes {
+   background: url(../images/learner-programmes.jpg);
+   height: 200px;
+   width: 15%;
+   padding: 30px 0 0 10px;
+   zoom: 90%;
+   color: #000;
+   text-align: center;
+}
+
+#programmes h2 {
+    color: #000;
+    text-align: center;
+}
+
+#food {
+    background-image: url(../images/food-bank.jpg);
+    height: 200px;
+    width: 15%;
+    padding: 30px 0 0 10px;
+    zoom: 90%;
+    color: #fafafa;
+    text-align: center;
+}
+
+#food h2 {
+    color: #fafafa;
+    text-align: center;
+}
+
+#extra-curricular {
+    background-image: url(../images/after-school-club.jpg);
+    height: 200px;
+    width: 15%;
+    padding: 30px 0 0 10px;
+    zoom: 90%;
+    color: #000;
+    text-align: center;
+}
+
+#extra-curricular h2 {
+    color: #000;
+    text-align: center;
+}
+
+#library {
+    background-image:  url(../images/library.jpg);
+    height: 200px;
+    width: 15%;
+    padding: 30px 0 0 10px;
+    zoom: 90%;
+    color: #C9A9A6;
+    text-align: left;
+}
+
+#library h2 {
+    color: #C9A9A6;
+    text-align: left;
+}
+
+/* Gallery Photos */
+h2 {
+    text-align: center;
+    padding: 15px 0 0 5px;
+    background-position: center;
+}
+    
+#gallery {
+        clear: none;
+        height: 250px;
+        width: 20%;
+        position: static;
+        background-position: center;
+        text-align: justify;
+        padding: 0;
+        margin: auto;
+   }
 
 /* Footer */
 
 footer{
-    height: 150px;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: -20px;
+    margin: auto 0;
 }
 
 .social-networks{
     text-align: center;
-
+    float: bottom;
 }
 
 .social-networks li{
@@ -204,41 +304,30 @@ footer{
 }
 
 .social-networks i{
-    font-size: 160%;
-    margin: 1%;
+    font-size: 100%;
+    margin: auto 0;
     padding: 5%;
     color: #3a3a3a;
-}
-
-/* Gallery Photos */
-
-#photo {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0px;
-}
-
-#photo img{
-    width: 100%;
+    position: static;
 }
 
 /* Form */
 
 .form-section {
-    clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("https://lh5.googleusercontent.com/6OsIh-DMKAi60wI1ONlk6miUE3or_EQD24iX2bB-DzEAHYs1OlI_nzfj3XJ4WxhKQzc=w2400");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    background-color: #fafafa;
+    clear: left;
+    height: 900px; 
+    color: #000;
 }
-
-
 
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
+    
     #library-ethos{
         width: 65%;
         height: 1200px;
@@ -263,7 +352,7 @@ footer{
         padding: 0;
     }
 
-    #times div {
+    #events div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -310,22 +399,18 @@ footer{
         padding: 0 20px 0 20px;
     }
 
-    #photo{
-        column-count: 3;
-    }
+    
 }
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
-    #photo{
-        column-count: 2;
-    }
+    
 }
 
 .signup-form {
    margin-top: 150px;
-   color: #fff;
-   background-color: rgba(60, 60, 60, 0.6);
+   color: #000;
+   background-color: #fafafa;
    max-width: 400px;
    position:absolute;
    left: 10%;
@@ -333,22 +418,22 @@ footer{
 }
 
 .signup-form h2 {
-    color: #fafafa;
+    color: #000;
     margin-bottom: 20px;
 }
 
 .text-input {
     background: transparent;
-    color: #fafafa;
+    color: #000;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
+    border: 1px solid #000;
     border-radius: 2px;
 }
 
 .text-input:hover{
-    border-color:#f16c6b;
+    border-color:#C9A9A6;
 }
 
 .join-button{
@@ -357,12 +442,12 @@ footer{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
+    background-color: #C9A9A6;
+    color: #000;
     display: block;
 }
 
 .join-button:hover{
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #C9A9A6;
 }
