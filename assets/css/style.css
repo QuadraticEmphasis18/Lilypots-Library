@@ -288,15 +288,12 @@ h2 {
 /* Footer */
 
 footer{
-    height: 20px;
-    margin-top: auto;
-    margin-bottom: -20px;
-    margin: auto 0;
+    height: 300px;
+    margin-top: 300px;
 }
 
 .social-networks{
     text-align: center;
-    float: bottom;
 }
 
 .social-networks li{
@@ -304,7 +301,7 @@ footer{
 }
 
 .social-networks i{
-    font-size: 100%;
+    font-size: 200%;
     margin: auto 0;
     padding: 5%;
     color: #3a3a3a;
