@@ -95,6 +95,12 @@ Your copyright in your footer isn’t at the very bottom, I’d suggest using a 
 You seem to be having some CSS issues with your contact page. I’ll attach an image to show what I mean, it’s the last option button.![Screenshot of contact page](https://files.slack.com/files-pri/T0L30B202-F049VM68K1U/screenshot_2022-11-08_at_20.50.55.png)
 Looks nice and responsive, your gallery does get very small compared to the rest of the site on mobile though. I’ll attach another image of what I mean as well. [Gallery page as viewed on a mobile device](https://files.slack.com/files-pri/T0L30B202-F049VM6M4KG/screenshot_2022-11-08_at_21.00.24.png)
 Had a quick look at your README, I know you said you’re in the middle of it but just keep an eye on your styling in a preview window. You have to have a space after ‘#’ for headings etc in markdown, otherwise it just shows up as another character. Just letting you know for future reference so you don’t have to go back and fix it again if you’re still in the process of everything :)"
+Simen Daelin (aka Eventyret_mentor):
+"Just to add to what was said:
+Don't use copyright unless you own all photos yourself, use made for education purposes.
+Suggest not split into multi pages but use a single scrollable page, less code, easier to maintain and again footer and header doesn't change just the middle.
+Make sure you commit more often reading the commit it seems you copy and pasted love running changed comments and colors. Again what git tells me. Again was reading on a phone so :man-shrugging:
+Make sure your allowed to use boostrap if your on 4p course not a problem but I think you are missing the JavaScript at the bottom before closing body tag, else your carousel won't be working."
 
 # Tutor:  
 "It looks really good - you just need to sort out some of the positioning as the content is all up towards the left and should be centred more. Just test it using the inspector tools in chrome to see how it looks for different screen sizes and ratios." 
