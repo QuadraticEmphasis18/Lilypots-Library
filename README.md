@@ -1,4 +1,4 @@
-## Lilypot's Library ##
+# Lilypot's Library #
 *This is so much more than just a library on wheels.* 
 
 ## Why do we need Lilypot's Library? ##
@@ -30,7 +30,9 @@ The third biggest challenge were the image links failing to work. I worked backw
 
 # Screenshots: #
 
+
 ## Tech/Framework used: ##
+
 # Languages: #
 <ul>
     <li> HTML </li>
@@ -39,21 +41,22 @@ The third biggest challenge were the image links failing to work. I worked backw
 
 # IDE & Editor: #
 IDE
-<ul> 
-    <li> Gitpod </li>
+    <ul> 
+        <li> Gitpod </li>
         <li> This is what I've used to manage my website's files containing the code to make the website work. </li>
-</ul>
-Editor 
-<ul>
-    <li> VSCode (Browser) <li>
-        <li> This is the software I used to write the code. It's built into Gitpod as one of several choices of code editors. </li>
-</ul>
+    </ul>
 
-# Fonts: # 
-<ul>
-    <li> Google Fonts </li>
+Editor 
+    <ul>
+        <li> VSCode (Browser) <li>
+        <li> This is the software I used to write the code. It's built into Gitpod as one of several choices of code editors. </li>
+    </ul>
+
+# Fonts: #
+    <ul>
+        <li> Google Fonts </li>
         <li> Poppins and Playfair were imported into the style.css file in this project. </li>
-</ul>
+    </ul>
 
 # Development & Testing: #
 <ul>
