@@ -268,12 +268,13 @@ hr {
 }
 
 /* Gallery Photos */
-h2 {
-    text-align: center;
+
+.container {
+    text-align: left;
     padding: 15px 0 0 5px;
-    background-position: center;
+    background-position: left;
+    display: flex;   
 }
-    
 #gallery {
         clear: none;
         height: 250px;
