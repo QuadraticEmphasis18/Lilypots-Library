@@ -1,10 +1,10 @@
-# Lilypot's Library #
+# Lilypot's Library 
 *This is so much more than just a library on wheels.* 
 
-## Why do we need Lilypot's Library? ##
+## Why do we need Lilypot's Library? 
 The need for a project like this to come to fruition has been driven by the heartbreaking year-on-year closures of stationary libraries, the economic cost of illiteracy rates and the lack of access to such facilities in neglected communities all over the country. This is about the future and we cannot keep making the same mistakes for the next generation to inherit. 
 
-## What should users take away from this website? ##
+## What should users take away from this website? 
 This is : 
 <ol>
     <li> A social enterprise that aims to be fill the holes where community centers used to fit as a hub and a central library. 
@@ -16,49 +16,49 @@ This is :
     <li> for those who struggle with reading and writing but need the extra help without judgement.
 </ol> 
 
-# UX/UE: #
+# UX/UE: 
 
-#  Why did I use the technologies? #
+#  Why did I use the technologies? 
 Firstly, I used html and css because these are mandatory requirements but I have also tried to include various bits and bobs from Bootstrap to differentiate between my own project and that of the walkthroughs I've done. They have been acknowledged at the bottom of this readme file.
 
-# Project Challenges: #
+# Project Challenges: 
 The biggest challenge with this project was having to put this together in a matter of days after the previous client both pulled out and killed the project. Now I see why my mentor suggested a fortnight as a comfortable amount of time. 
 
 The second biggest challenge were the tiny errors I made when I tried running the editor and the webpage was blank. They were small enough to fix and yet their impact superseeded their size. I soon realised it was because I didn't have links to the pages and later my css contained in the assets directory.
 
 The third biggest challenge were the image links failing to work. I worked backwards from the problem and googled how to acquire a jpeg/png link and then when that didn't work I went straight back to where they were stored only to find they'd vanished. Odd I thought, so I reuploaded them and now they work. Thank goodness for small victories, eh? It's a good job I weirdly enjoy de-pickling my own bugs. 
 
-# Screenshots: #
+# Screenshots: 
 
 
-## Tech/Framework used: ##
+## Tech/Framework used: 
 
-# Languages: #
+# Languages: 
 <ul>
     <li> HTML </li>
     <li> CSS </li>
 <ul>
 
-# IDE & Editor: #
-IDE
+## IDE & Editor: 
+# IDE 
     <ul> 
         <li> Gitpod </li>
         <li> This is what I've used to manage my website's files containing the code to make the website work. </li>
     </ul>
 
-Editor 
+# Editor 
     <ul>
         <li> VSCode (Browser) <li>
         <li> This is the software I used to write the code. It's built into Gitpod as one of several choices of code editors. </li>
     </ul>
 
-# Fonts: #
+# Fonts: 
     <ul>
         <li> Google Fonts </li>
         <li> Poppins and Playfair were imported into the style.css file in this project. </li>
     </ul>
 
-# Development & Testing: #
+# Development & Testing: 
 <ul>
     <li> DevTools </li>
         <li> This was used two-fold: a) responsiveness and b) debugging
@@ -68,27 +68,27 @@ Editor
         <li> This was used to check that my CSS code was up to industry-standard. <li>
 </ul>
 
-## Features: ##
-# Why the name Lilypot's Library? #
-Lilypot is actually the nickname I have for my niece and I chose it essentially because the aim with this imaginary business is that it's about the next generation. I also realise that the moniker is unusual and I chose to use this to increase accessibility. I'm very aware of how white dominated everything else is on the website and in time will make further efforts to diversify the images. With the time constraints I've had this hasn't been possible. 
+## Features: 
+# Why the name Lilypot's Library? 
+Lilypot is actually the nickname I have for my niece and I chose it essentially because the aim with this imaginary business is that it's about the next generation. Nobody embodies that than a three year old who has an opinion on everything and isn't ashamed to let you know. I also realise that the moniker is unusual and I chose to use this to increase accessibility. I'm very aware of how white dominated everything else is on the website and in time will make further efforts to diversify the images. With the time constraints I've had this hasn't been possible. 
 
-# Why the colour and visuals? #
+# Why the colour and visuals? 
 In naming this fictional business after my niece, choosing the colours and images came easily when I kept her in mind. The dusty-rose pink on each webpage is her favourite colour so her parents tell me. I also wanted to make as many of the images used both on the 'homepage' and those on the 'gallery' as bright as possible. They are so bright it's hard to find a standard font colour that looks uniform and doesn't clash.  
 
-# Why the fonts? #
+# Why the fonts? 
 I chose these font because I thought they looked fun and approachable whilst also being easy-to read, smart, simple in layout and above all professional. 
 
-# What features could/would be installed if there was more time? #
+# What features could/would be installed if there was more time? 
 Features I would install later would probably be: the opportunity to allow users to have an account with us where it would detail a personalised overview of what it is they personally require from us. It would include information about interests, time constraints (working-childcare-free time), whether they have a learning difficulty and need additional support, and pick which purpose point applies to their needs. 
 I'd also have a donation tab tacked onto the sign-up page for users to contribute if they wanted to. It's worth pointing out at this stage that e-commerce skills have yet to be mastered. This wouldn't be the only source of income, the mobile library would welcome as sharing the refurbishing build of the fleet of buses on social media would establish an early-interest in the business. 
 I'd have YouTube videos of us converting the buses into the hubs-on-wheels they are destined to be. Other social media channels would play their part and we would make sure that all events take pride of place on the site. 
 
-## Tests: ## 
-# Parents: # 
+## Tests:  
+# Parents: 
 "Just looking at the link. Comments regarding the home page good first impression, could emphasize more the community aspects e.g. Lilypot's Community Hub and Library. The 'Doing Good' needs rewording, the pictures at the bottom need a description/explanation and maybe even a link. The gallery - the pictures could be bigger, better cropped and again have some explanations. Hope it helps." 
 "We had a quick look together. Navigation was easy, nice simple layout with clear spacing. It was easy to read even for me. Text is clear although a bit more spacing between the headings and the text (explanation)."
 
-# Code Institute's Slack Developer Community #peer-code-review: # 
+# Code Institute's Slack Developer Community peer-code-review channel: 
 Grace McKenna_lead:
 "Hey Lex! Pretty landing page! A few things just from glancing at it.
 Your copyright in your footer isn’t at the very bottom, I’d suggest using a sticky footer to keep it at the bottom. Minor thing though.
@@ -96,10 +96,10 @@ You seem to be having some CSS issues with your contact page. I’ll attach an i
 Looks nice and responsive, your gallery does get very small compared to the rest of the site on mobile though. I’ll attach another image of what I mean as well. [Gallery page as viewed on a mobile device](https://files.slack.com/files-pri/T0L30B202-F049VM6M4KG/screenshot_2022-11-08_at_21.00.24.png)
 Had a quick look at your README, I know you said you’re in the middle of it but just keep an eye on your styling in a preview window. You have to have a space after ‘#’ for headings etc in markdown, otherwise it just shows up as another character. Just letting you know for future reference so you don’t have to go back and fix it again if you’re still in the process of everything :)"
 
-# Tutor: # 
+# Tutor:  
 "It looks really good - you just need to sort out some of the positioning as the content is all up towards the left and should be centred more. Just test it using the inspector tools in chrome to see how it looks for different screen sizes and ratios." 
 
-## How To Deploy? ##
+## How To Deploy? 
 If you've found this page chances are you may already have a GitHub account. If you haven't but you want to make changes to this then you'll need to sign up for one. 
 
 <ol>
@@ -112,7 +112,7 @@ If you've found this page chances are you may already have a GitHub account. If 
     <li> Click the new tab button 'Visit site' to see the changes you've made. Please be patient if the page takes a little longer than normal to load. </li>
 </ol>
 
-## Contribute: ##
+## Contribute: 
 I am fully open to contributions both online and offline especially for those who are from the areas of the community that a service like this is needed. It is worth mentionning that this project is publicly available to all although when I was working on it (to minimise distractions) I kept it private. 
 
 I realise that visually there isn't much of a plan here. Time constraints put paid to any basic wireframing structures as I was up against a deadline and given I'm more of a wordy-type than a visually-designer type I'd have had to put a lot of effort into showing what was in my brain on paper. In future projects I will endeavour to try and master this skill. The upside to this is that there is scope for creativity in what to add where. Should you need something to spark the imagination, those who have offered feedback have raised some interesting ideas well worth implementing. 
@@ -122,7 +122,7 @@ Second, if you have the 'Gitpod' extension installed, click the green button. If
 Third, it should take you straight to the vscode editor. If this is true, you'll be able to see a pane on the left of your screen with 'OPEN EDITORS' dropdown menu at the top. 
 Fourth, have a little trek around how I've made the website. There's a lot to take in and if you're a seasoned developer, I fully understand if any of the code makes you a smidge annoyed because it's old and cranky. I've yet to reach the stage you're at (especially future me who might return to this after the course is over) so please be patient with me.
 
-## Credits: ##
+## Credits: 
 I wanted to combine the warmth of one walkthrough project on this Code Institute course with the structure and simple design features of another:
 Coder's Coffeehouse - The warmth and friendly nature of a coffeehouse. 
 Love Running - The simple and effective structure with easy navigational links. 
