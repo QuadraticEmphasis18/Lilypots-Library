@@ -95,6 +95,7 @@ Your copyright in your footer isn’t at the very bottom, I’d suggest using a 
 You seem to be having some CSS issues with your contact page. I’ll attach an image to show what I mean, it’s the last option button.![Screenshot of contact page](https://files.slack.com/files-pri/T0L30B202-F049VM68K1U/screenshot_2022-11-08_at_20.50.55.png)
 Looks nice and responsive, your gallery does get very small compared to the rest of the site on mobile though. I’ll attach another image of what I mean as well. [Gallery page as viewed on a mobile device](https://files.slack.com/files-pri/T0L30B202-F049VM6M4KG/screenshot_2022-11-08_at_21.00.24.png)
 Had a quick look at your README, I know you said you’re in the middle of it but just keep an eye on your styling in a preview window. You have to have a space after ‘#’ for headings etc in markdown, otherwise it just shows up as another character. Just letting you know for future reference so you don’t have to go back and fix it again if you’re still in the process of everything :)"
+
 Simen Daelin (aka Eventyret_mentor):
 "Just to add to what was said:
 Don't use copyright unless you own all photos yourself, use made for education purposes.
