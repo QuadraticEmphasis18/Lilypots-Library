@@ -94,7 +94,6 @@ My last challenge in building this website is moving the footer to the bottom of
 
 
 ## Tech/Framework used: 
-
 # Languages: 
 <ul>
     <li> HTML </li>
@@ -192,7 +191,7 @@ If you've found this page chances are you may already have a GitHub account. If 
 ## Contribute: 
 I am fully open to contributions both online and offline especially for those who are from the areas of the community that a service like this is needed. It is worth mentionning that this project is publicly available to all although when I was working on it (to minimise distractions) I kept it private. 
 
-I realise that visually there isn't much of a plan here. Time constraints put paid to any basic wireframing structures as I was up against a deadline and given I'm more of a wordy-type than a visually-designer type I'd have had to put a lot of effort into showing what was in my brain on paper. In future projects I will endeavour to try and master this skill. The upside to this is that there is scope for creativity in what to add where. Should you need something to spark the imagination, those who have offered feedback have raised some interesting ideas well worth implementing. 
+I realise that visually there isn't much of a plan here. Time constraints put paid to any basic wireframing structures as I was up against a deadline and given I'm more of a wordy-type than a visually-designer type I'd have had to put a lot of effort into showing what was in my brain on paper. In future projects I will endeavour to try and master this skill. The upside to this is that there is scope for creativity in what to add where. Should you need something to spark the imagination, those who have offered feedback have raised some interesting ideas well worth implementing. Upon my return at various points throughout the course and after, I will be adding further details of my plan to Lilypot's Library GitHub wiki to add some clarity. I would urge any contributors to also contribute to the wiki. 
 
 First, I would recommend clicking on this link: https://github.com/QuadraticEmphasis18/Lilypots-Library. This will take you to the repo.
 Second, if you have the 'Gitpod' extension installed, click the green button. If you can't see this button it may be that you don't have it installed. Please go here to install it: https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki?hl=en 

@@ -182,13 +182,13 @@ hr {
 #events div {
     background-repeat: no-repeat;
     background-color: #fafafa;
-    height: 300px;
-    width: 20%;
-    background-position: left;
+    height: 600px;
+    width: 40%;
+    background-position: center;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #fafafa;
     box-sizing: border-box;
 }
 
@@ -272,9 +272,13 @@ hr {
 .container {
     text-align: left;
     padding: 15px 0 0 5px;
-    background-position: left;
-    display: flex;   
+    background-position: center;
+    display: flex; 
+    max-width: 540px; 
+    border: 1px solid #fafafa;
+    box-sizing: border-box; 
 }
+
 #gallery {
         clear: none;
         height: 250px;
@@ -289,8 +293,8 @@ hr {
 /* Footer */
 
 footer{
-    height: 300px;
-    margin-top: 300px;
+    height: 600px;
+    margin-top: 600px;
 }
 
 .social-networks{
