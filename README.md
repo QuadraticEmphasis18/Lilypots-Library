@@ -17,6 +17,24 @@ This is :
 </ol> 
 
 # UX/UE: 
+Short-term user goals on Lilypot's Library: 
+<ol>
+    <li> To experience easy navigation around the website.</li>
+    <li> To understand exactly how and why Lilypot's Library is so much more than just a library.</li>
+    <li> To have a fully responsive site across all available devices.</li>
+</ol>
+Medium-term user goals on Lilypot's Library:
+<ol>
+    <li> To continue to be a visual presence in the community with regular bookings on the calendar.</li>
+    <li> To continue the fight against loneliness by bringing the community together through events and activities.</li>
+    <li> To highlight and showcase the work done by the community to the people it serves both on our website and through social media links.</li>
+</ol>
+Long-term user goals on Lilypot's Library:
+<ol>
+    <li> To book kids onto our nutritional breakfast programme so they can thrive in the classroom and create fulfilled happy kids at our after-school clubs.</li>
+    <li> To achieve a course fully supported by us provided by our social-enterprising partners.</li>
+    <li> To end food and fuel poverty throughout the UK.</li>
+</ol>
 
 #  Why did I use the technologies? 
 Firstly, I used html and css because these are mandatory requirements but I have also tried to include various bits and bobs from Bootstrap to differentiate between my own project and that of the walkthroughs I've done. They have been acknowledged at the bottom of this readme file.
@@ -26,9 +44,53 @@ The biggest challenge with this project was having to put this together in a mat
 
 The second biggest challenge were the tiny errors I made when I tried running the editor and the webpage was blank. They were small enough to fix and yet their impact superseeded their size. I soon realised it was because I didn't have links to the pages and later my css contained in the assets directory.
 
-The third biggest challenge were the image links failing to work. I worked backwards from the problem and googled how to acquire a jpeg/png link and then when that didn't work I went straight back to where they were stored only to find they'd vanished. Odd I thought, so I reuploaded them and now they work. Thank goodness for small victories, eh? It's a good job I weirdly enjoy de-pickling my own bugs. 
+The third biggest challenge were the image links failing to work. I worked backwards from the problem and googled how to acquire a jpeg/png link and then when that didn't work I went straight back to where they were stored only to find they'd vanished. Odd I thought, so I reuploaded them and now they work. Thank goodness for small victories, eh? It's a good job I weirdly enjoy debugging my own bugs. 
 
 # Screenshots: 
+
+
+
+
+Images are not shown 
+Text is all over the place
+Changed the code so that there is an alt attribute (see errors, warnings and info in previous image) in every image as displayed
+
+
+
+I've had another look at how to refine and target the images using Bootstrap within CSS but as you can see it's going wrong more often than it's going right. 
+Back to the drawing board and chin-scratching I go. If you think I make things easy for myself, you are much mistaken but these are the kinds of problems and pickles I love to solve. Believe you me, I will solve this and I am going to enjoy the process. :) Enjoy the ride.
+
+
+
+42 warnings:
+
+
+
+Ahhh… so much to do but with a bit of chin scratching, elbow grease, builder's brews in me and my mate Google helping me out I'll get there. I am not giving up this easily. 
+
+So I have finally solved my div background colour issue and it turns out I put the property in the wrong place. It was here:
+
+
+And now it's here:
+
+
+This allowed me to target a different background-colour property for the divs like this:
+
+
+
+
+
+
+
+My sign-up page now looks a lot clearer and easier to read and best of all nothing like the run-through project while still maintaining a simple yet classy nature. Boom!
+
+
+
+Pretty sure these images speak for themselves (and though they will in future have links to other pages) I really think they can be appreciated without text on them. Besides the text really takes away from the experience. 
+
+
+
+My last challenge in building this website is moving the footer to the bottom of the page. The problem may be due to the margin. On reflection, it's actually due to the height. 
 
 
 ## Tech/Framework used: 
@@ -36,27 +98,35 @@ The third biggest challenge were the image links failing to work. I worked backw
 # Languages: 
 <ul>
     <li> HTML </li>
+        <li> This is the content. </li>
     <li> CSS </li>
+        <li> This is the styling.</li>
 <ul>
 
-## IDE & Editor: 
+# IDE & Editor: 
 # IDE 
-    <ul> 
-        <li> Gitpod </li>
+<ul> 
+    <li> Gitpod </li>
         <li> This is what I've used to manage my website's files containing the code to make the website work. </li>
-    </ul>
+</ul>
 
 # Editor 
-    <ul>
-        <li> VSCode (Browser) <li>
+<ul>
+    <li> VSCode (Browser) <li>
         <li> This is the software I used to write the code. It's built into Gitpod as one of several choices of code editors. </li>
-    </ul>
+</ul>
 
 # Fonts: 
-    <ul>
-        <li> Google Fonts </li>
+<ul>
+    <li> Google Fonts </li>
         <li> Poppins and Playfair were imported into the style.css file in this project. </li>
-    </ul>
+</ul>
+
+# Iconography: 
+<ul>
+    <li> Font Awesome:</li>
+        <li> This was imported into the project for social media links in the footer and on the sign-up page. </li>
+</ul>
 
 # Development & Testing: 
 <ul>
@@ -85,19 +155,19 @@ I'd have YouTube videos of us converting the buses into the hubs-on-wheels they 
 
 ## Tests:  
 # Parents: 
-"Just looking at the link. Comments regarding the home page good first impression, could emphasize more the community aspects e.g. Lilypot's Community Hub and Library. The 'Doing Good' needs rewording, the pictures at the bottom need a description/explanation and maybe even a link. The gallery - the pictures could be bigger, better cropped and again have some explanations. Hope it helps." 
-"We had a quick look together. Navigation was easy, nice simple layout with clear spacing. It was easy to read even for me. Text is clear although a bit more spacing between the headings and the text (explanation)."
+> Blockquote "Just looking at the link. Comments regarding the home page good first impression, could emphasize more the community aspects e.g. Lilypot's Community Hub and Library. The 'Doing Good' needs rewording, the pictures at the bottom need a description/explanation and maybe even a link. The gallery - the pictures could be bigger, better cropped and again have some explanations. Hope it helps." 
+> Blockquote "We had a quick look together. Navigation was easy, nice simple layout with clear spacing. It was easy to read even for me. Text is clear although a bit more spacing between the headings and the text (explanation)."
 
 # Code Institute's Slack Developer Community peer-code-review channel: 
 Grace McKenna_lead:
-"Hey Lex! Pretty landing page! A few things just from glancing at it.
+> Blockquote "Hey Lex! Pretty landing page! A few things just from glancing at it.
 Your copyright in your footer isn’t at the very bottom, I’d suggest using a sticky footer to keep it at the bottom. Minor thing though.
 You seem to be having some CSS issues with your contact page. I’ll attach an image to show what I mean, it’s the last option button.![Screenshot of contact page](https://files.slack.com/files-pri/T0L30B202-F049VM68K1U/screenshot_2022-11-08_at_20.50.55.png)
 Looks nice and responsive, your gallery does get very small compared to the rest of the site on mobile though. I’ll attach another image of what I mean as well. [Gallery page as viewed on a mobile device](https://files.slack.com/files-pri/T0L30B202-F049VM6M4KG/screenshot_2022-11-08_at_21.00.24.png)
 Had a quick look at your README, I know you said you’re in the middle of it but just keep an eye on your styling in a preview window. You have to have a space after ‘#’ for headings etc in markdown, otherwise it just shows up as another character. Just letting you know for future reference so you don’t have to go back and fix it again if you’re still in the process of everything :)"
 
 Simen Daelin (aka Eventyret_mentor):
-"Just to add to what was said:
+> Blockquote "Just to add to what was said:
 Don't use copyright unless you own all photos yourself, use made for education purposes.
 Suggest not split into multi pages but use a single scrollable page, less code, easier to maintain and again footer and header doesn't change just the middle.
 Make sure you commit more often reading the commit it seems you copy and pasted love running changed comments and colors. Again what git tells me. Again was reading on a phone so :man-shrugging:
