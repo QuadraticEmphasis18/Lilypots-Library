@@ -102,7 +102,6 @@ My last challenge in building this website is moving the footer to the bottom of
         <li> This is the styling.</li>
 <ul>
 
-# IDE & Editor: 
 # IDE 
 <ul> 
     <li> Gitpod </li>
