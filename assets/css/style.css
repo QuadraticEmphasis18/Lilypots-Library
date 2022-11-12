@@ -183,8 +183,8 @@ hr {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    height: 500px;
-    width: 30%;
+    height: 300px;
+    width: 20%;
     float: left;
     text-align: left;
     padding: 30px 0 0 10px;
@@ -193,8 +193,8 @@ hr {
 
 #breakfast {
     background: url(../images/breakfast-club.jpg);
-    height: 500px;
-    width: 30%;
+    height: 300px;
+    width: 20%;
     zoom: 90%;
     color: #000;
     text-align: left; 
@@ -208,8 +208,8 @@ hr {
 
 #programmes {
    background: url(../images/learner-programmes.jpg);
-   height: 500px;
-   width: 30%;
+   height: 300px;
+   width: 20%;
    zoom: 90%;
    color: #000;
    text-align: left;
@@ -223,8 +223,8 @@ hr {
 
 #food {
     background-image: url(../images/food-bank.jpg);
-    height: 500px;
-    width: 30%;
+    height: 300px;
+    width: 20%;
     zoom: 90%;
     color: #fafafa;
     text-align: left;
@@ -237,8 +237,8 @@ hr {
 
 #extra-curricular {
     background-image: url(../images/after-school-club.jpg);
-    height: 500px;
-    width: 30%;
+    height: 300px;
+    width: 20%;
     zoom: 90%;
     color: #000;
     text-align: center;
@@ -251,8 +251,8 @@ hr {
 
 #library {
     background-image:  url(../images/library.jpg);
-    height: 500px;
-    width: 30%;
+    height: 300px;
+    width: 20%;
     zoom: 90%;
     color: #C9A9A6;
     text-align: left;
