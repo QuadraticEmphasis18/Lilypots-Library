@@ -182,8 +182,8 @@ hr {
 #events div {
     background-repeat: no-repeat;
     background-color: #fafafa;
-    height: 200px;
-    width: 20%;
+    height: 600px;
+    width: 40%;
     float: right;
     text-align: center;
     padding: 30px 0 0 10px;
@@ -194,8 +194,8 @@ hr {
 
 #breakfast {
     background: url(../images/breakfast-club.jpg);
-    height: 500px;
-    width: 20%;
+    height: 600px;
+    width: 40%;
     zoom: 90%;
     color: #000;
     text-align: center;   
@@ -208,8 +208,8 @@ hr {
 
 #programmes {
    background: url(../images/learner-programmes.jpg);
-   height: 500px;
-   width: 20%;
+   height: 600px;
+   width: 40%;
    zoom: 90%;
    color: #000;
    text-align: center;
@@ -222,8 +222,8 @@ hr {
 
 #food {
     background-image: url(../images/food-bank.jpg);
-    height: 500px;
-    width: 20%;
+    height: 600px;
+    width: 40%;
     zoom: 90%;
     color: #fafafa;
     text-align: center;
@@ -236,8 +236,8 @@ hr {
 
 #extra-curricular {
     background-image: url(../images/after-school-club.jpg);
-    height: 500px;
-    width: 20%;
+    height: 600px;
+    width: 40%;
     zoom: 90%;
     color: #000;
     text-align: center;
@@ -250,8 +250,8 @@ hr {
 
 #library {
     background-image:  url(../images/library.jpg);
-    height: 500px;
-    width: 20%;
+    height: 600px;
+    width: 40%;
     zoom: 90%;
     color: #C9A9A6;
     text-align: left;
@@ -276,8 +276,8 @@ hr {
 
 #gallery {
         clear: none;
-        height: 250px;
-        width: 20%;
+        height: 600px;
+        width: 40%;
         position: static;
         background-position: center;
         text-align: justify;
