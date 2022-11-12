@@ -181,7 +181,7 @@ hr {
 /* Events */
 #events div {
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: auto;
     height: 600px;
     width: 40%;
     float: left;
