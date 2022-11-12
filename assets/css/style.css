@@ -195,7 +195,6 @@ hr {
     background: url(../images/breakfast-club.jpg);
     height: 500px;
     width: 20%;
-    padding: 5px 0 0 5px;
     zoom: 90%;
     color: #000;
     text-align: center;   
@@ -210,7 +209,6 @@ hr {
    background: url(../images/learner-programmes.jpg);
    height: 500px;
    width: 20%;
-   padding: 5px 0 0 5px;
    zoom: 90%;
    color: #000;
    text-align: center;
@@ -225,7 +223,6 @@ hr {
     background-image: url(../images/food-bank.jpg);
     height: 500px;
     width: 20%;
-    padding: 5px 0 0 5px;
     zoom: 90%;
     color: #fafafa;
     text-align: center;
@@ -240,7 +237,6 @@ hr {
     background-image: url(../images/after-school-club.jpg);
     height: 500px;
     width: 20%;
-    padding: 5px 0 0 5px;
     zoom: 90%;
     color: #000;
     text-align: center;
@@ -255,7 +251,6 @@ hr {
     background-image:  url(../images/library.jpg);
     height: 500px;
     width: 20%;
-    padding: 5px 0 0 5px;
     zoom: 90%;
     color: #C9A9A6;
     text-align: left;
