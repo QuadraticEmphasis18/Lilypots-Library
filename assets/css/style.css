@@ -192,6 +192,7 @@ hr {
 
 #breakfast {
     background: url(../images/breakfast-club.jpg);
+    background-size: cover;
     height: 600px;
     width: 40%;
     zoom: 90%;
