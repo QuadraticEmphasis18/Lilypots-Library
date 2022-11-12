@@ -182,7 +182,7 @@ hr {
 #events div {
     background-repeat: no-repeat;
     background-position: left;
-    background-size: contain;
+    background-size: cover;
     height: 300px;
     width: 20%;
     float: left;
