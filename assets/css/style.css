@@ -198,7 +198,8 @@ hr {
     width: 40%;
     zoom: 90%;
     color: #000;
-    text-align: center;   
+    text-align: center; 
+    background-position: 0%;  
 }
 
 #breakfast h2 {
