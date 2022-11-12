@@ -291,6 +291,7 @@ hr {
 footer{
     height: 600px;
     margin-top: 600px;
+    position: sticky;
 }
 
 .social-networks{
