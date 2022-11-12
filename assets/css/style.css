@@ -182,6 +182,7 @@ hr {
 #events div {
     background-repeat: no-repeat;
     background-color: #fafafa;
+    background-size: contain;
     height: 600px;
     width: 40%;
     float: left;
@@ -192,7 +193,6 @@ hr {
 
 #breakfast {
     background: url(../images/breakfast-club.jpg);
-    background-size: cover;
     height: 600px;
     width: 40%;
     zoom: 90%;
