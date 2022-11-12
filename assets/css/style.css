@@ -184,8 +184,8 @@ hr {
     background-color: #fafafa;
     height: 600px;
     width: 40%;
-    background-position: left;
-    float: right;
+    background-position: right;
+    float: left;
     padding: 5px 0 0 2px;
     text-align: center;
     border: 1px solid #fafafa;
