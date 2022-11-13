@@ -53,15 +53,7 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Hero image and cover text */
-
-#cover-text{
-    height: 300px;
-    width: 300px;
-    float: left;
-    font-size: 130%;
-  font-family: Lato;
-}
+/* Hero image */
 
 #hero-outer{
     height:600px;
