@@ -303,6 +303,17 @@ footer{
     position: static;
 }
 
+.validators {
+    text-align: center;
+}
+
+.validators li {
+    display: inline;
+}
+
+.validators href {
+    
+}
 /* Form */
 
 .form-section {
