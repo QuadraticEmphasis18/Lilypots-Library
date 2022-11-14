@@ -278,12 +278,12 @@ hr {
 
 #gallery {
         clear: none;
-        height: 550px;
+        height: 500px;
         width: 40%;
         position: static;
         background-position: center;
         text-align: justify;
-        padding: 5px;
+        padding: 10px;
         margin: auto;
    }
 
