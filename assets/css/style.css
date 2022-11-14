@@ -271,7 +271,7 @@ hr {
     background-position: center;
     display: flex; 
     max-width: auto; 
-    border: 1px solid #fafafa;
+    
     background-color: #fafafa fill;
     box-sizing: border-box; 
 }
