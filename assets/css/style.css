@@ -269,7 +269,7 @@ hr {
     background: #fafafa; position: center; padding: 15px 0 0 5px; border: 1px solid white;
     text-align: center;
     display: flex; 
-    max-width: 50px; 
+    max-width: 5px; 
     box-sizing: border-box; 
 }
 
