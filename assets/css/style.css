@@ -270,8 +270,10 @@ hr {
     padding: 15px 0 0 5px;
     background-position: center;
     display: flex; 
-    max-width: 540px; 
+    max-width: 50px; 
     border: 1px solid #fafafa;
+    background-color: #fafafa;
+    box: fill;
     box-sizing: border-box; 
 }
 
