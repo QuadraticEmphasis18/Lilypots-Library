@@ -266,14 +266,13 @@ hr {
 /* Gallery Photos */
 
 .container {
-    text-align: left;
+    text-align: center;
     padding: 15px 0 0 5px;
     background-position: center;
     display: flex; 
-    max-width: 50px; 
+    max-width: auto; 
     border: 1px solid #fafafa;
     background-color: #fafafa;
-    box: fill;
     box-sizing: border-box; 
 }
 
