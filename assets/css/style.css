@@ -212,6 +212,7 @@ hr {
 #programmes h2 {
     color: #000;
     text-align: right;
+    float: left;
 }
 
 #food {
@@ -221,11 +222,13 @@ hr {
     zoom: 90%;
     color: #fafafa;
     text-align: right;
+    float: left;
 }
 
 #food h2 {
     color: #fafafa;
     text-align: right;
+    float: left;
 }
 
 #extra-curricular {
@@ -235,11 +238,13 @@ hr {
     zoom: 90%;
     color: #000;
     text-align: right;
+    float: left;
 }
 
 #extra-curricular h2 {
     color: #000;
     text-align: right;
+    float: left;
 }
 
 #library {
@@ -249,11 +254,13 @@ hr {
     zoom: 90%;
     color: #C9A9A6;
     text-align: right;
+    float: left;
 }
 
 #library h2 {
     color: #C9A9A6;
     text-align: right;
+    float: left;
 }
 
 /* Gallery Photos */
