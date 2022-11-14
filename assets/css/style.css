@@ -267,7 +267,7 @@ hr {
 
 .container {
     background: #fafafa; 
-    position: sticky; 
+    position: static; 
     padding: 15px 0 0 5px; 
     border: 1px solid #fafafa;
     text-align: center;
@@ -316,7 +316,7 @@ footer{
 }
 
 .validators li {
-    display: inline;
+    display: outside;
 }
 
 /* Form */
