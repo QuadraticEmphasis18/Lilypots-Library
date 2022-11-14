@@ -266,7 +266,10 @@ hr {
 /* Gallery Photos */
 
 .container {
-    background: #fafafa; position: sticky; padding: 15px 0 0 5px; border: 1px solid white;
+    background: #fafafa; 
+    position: sticky; 
+    padding: 15px 0 0 5px; 
+    border: 1px solid #fafafa;
     text-align: center;
     display: flex; 
     max-width: 5px; 
