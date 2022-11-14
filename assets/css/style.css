@@ -176,22 +176,22 @@ hr {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 300px;
-    width: 20%;
+    height: 250px;
+    width: 15%;
     float: left;
-    text-align: left;
+    text-align: right;
     padding: 30px 0 0 10px;
     margin: 2px;
 }
 
 #breakfast {
     background: url(../images/breakfast-club.jpg);
-    height: 300px;
-    width: 20%;
+    height: 250px;
+    width: 15%;
     zoom: 90%;
     color: #000;
-    text-align: left; 
     float: left;
+    text-align: right; 
 }
 
 #breakfast h2 {
@@ -201,13 +201,13 @@ hr {
 
 #programmes {
    background: url(../images/learner-programmes.jpg);
-   height: 300px;
-   width: 20%;
+   height: 250px;
+   width: 15%;
    zoom: 90%;
    color: #000;
-   text-align: left;
-   float: left;
-}
+   float: left; 
+   text-align: right;
+   }
 
 #programmes h2 {
     color: #000;
@@ -311,9 +311,6 @@ footer{
     display: inline;
 }
 
-.validators href {
-    
-}
 /* Form */
 
 .form-section {
