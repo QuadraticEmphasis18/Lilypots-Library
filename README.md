@@ -2,6 +2,7 @@
 *This is so much more than just a library on wheels.* 
 
 ## Why do we need Lilypot's Library? 
+[Reason for Lilypot's Library](assets/images/reason%20for%20lilypots%20library.png)
 The need for a project like this to come to fruition has been driven by the heartbreaking year-on-year closures of stationary libraries, the economic cost of illiteracy rates and the lack of access to such facilities in neglected communities all over the country. This is about the future and we cannot keep making the same mistakes for the next generation to inherit. 
 
 ## What should users take away from this website? 
@@ -98,6 +99,8 @@ This is also an opportune moment reader, to remind myself that first and foremos
 [Mobile First - Part 4](assets/images/mobile-first%20part%204.png)
 [Mobile First - Part 5](assets/images/mobile-first%20part%205.png)
 [Mobile First - Part 6](assets/images/mobile-first%20part%206.png)
+I'm not exactly sure why or even how this massive circle has appeared. If I had more time I'd investigate this more thoroughly. Personally it doesn't look all that professional to me. If a client had made this for me I wouldn't be all that impressed even if these are minor errors and easy to fix. But then I am prone to nitpicking at my work and probably never truly satisfied with what I create.
+
 
 ## Tech/Framework used: 
 # Languages: 
