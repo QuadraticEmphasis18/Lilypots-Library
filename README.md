@@ -47,51 +47,57 @@ The second biggest challenge were the tiny errors I made when I tried running th
 The third biggest challenge were the image links failing to work. I worked backwards from the problem and googled how to acquire a jpeg/png link and then when that didn't work I went straight back to where they were stored only to find they'd vanished. Odd I thought, so I reuploaded them and now they work. Thank goodness for small victories, eh? It's a good job I weirdly enjoy debugging my own bugs. 
 
 # Screenshots: 
+[A portion of the initial w3c html validator](assets/images/html%20w3c%20validator%20results.png)
+This was the first check with the html validator I did on this project. It is worth pointing out that I fully expected errors etc to crop up and I was under no illusions that I wouldn't have a clean sweep of no issues on my first try. As you can see, I missed a minor but nonetheless an integral part of adding an image to my gallery - the alternative attribute - without which an image won't show up. It's also worth pointing out that the rather important point of saving images to my desktop, clicking and dragging into my assets, then images folder has definitely done me more favours than the use of links as displayed in this error results image. 
+You can see the results page in full below. 
+[A full view of the w3c html validator results page](assets/images/full%20html%20w3c%20validator%20results.png)
 
+[Failed installation of images](assets/images/Gallery%20-%20images%20not%20showing.png)
+Images are not showing here and it took me a while because of the serious amount of sleep deprivation to work out that this was the result of poor image structure/tactics. I asked for help from the wonderful Code Institute of software developers on Slack to help a gal out and three suggested to 'click and drag' images from the folder. I'm not exactly sure why there's a line across the top or indeed why the title won't sink down below the 'Lilypot's Library'. For the benefit of the reader, this is still a work in progress.  
 
+[Failed installation of Bootstrap's Carousel](assets/images/gallery%20with%20bootstrap%20-%20images%20not%20showing.png)
+I've had another look at how to refine and target the images using Bootstrap within CSS but as you can see it's going wrong more often than it's going right. Back to the drawing board and chin-scratching I go. If you think I make things easy for myself, you are much mistaken but these are the kinds of problems and pickles I love to solve. Believe you me, I will solve this and I am going to enjoy the process. 
+Indeed, there was much more chin-scratching than anticipated and eventually I called upon the help of Code Institute's slack community yet again and I received much help from another mentor (not mine) called Harry Dhillon who walked me through using it. He made a very convincing argument about actually installing it because in future projects when I use Bootstrap again I'll be able to smash through it without any problems. Honestly, I found it so compelling it was difficult for me to refuse. Please scroll down to see the finished article and if you're reading this Harry - you're the man, thank you so much for your help and encouragement. 
 
-
-Images are not shown 
-Text is all over the place
-Changed the code so that there is an alt attribute (see errors, warnings and info in previous image) in every image as displayed
-
-
-
-I've had another look at how to refine and target the images using Bootstrap within CSS but as you can see it's going wrong more often than it's going right. 
-Back to the drawing board and chin-scratching I go. If you think I make things easy for myself, you are much mistaken but these are the kinds of problems and pickles I love to solve. Believe you me, I will solve this and I am going to enjoy the process. :) Enjoy the ride.
-
-
-
+[W3C CSS Validator results](assets/images/full%20css%20w3c%20validator%20results.png)
 42 warnings:
-
-
-
 Ahhh… so much to do but with a bit of chin scratching, elbow grease, builder's brews in me and my mate Google helping me out I'll get there. I am not giving up this easily. 
+[W3C CSS Validator results - Part 2](assets/images/full%20css%20w3c%20validator%20results%20-%20part%202.png)
+[W3C CSS Validator results - Part 3](assets/images/full%20css%20w3c%20validator%20results%20-%20part%203.png)
+Harry, the mentor, graciously pointed out to me that the reason it had gone so wrong for me was that I had tampered with the code when I really should have left it all alone. Note to self: copy & paste but NEVER alter the code. It turned out to be a unique lesson in how to respect Bootstrap. 
 
 So I have finally solved my div background colour issue and it turns out I put the property in the wrong place. It was here:
-
+[div background color issue - Part 1](assets/images/div%20background%20color%20issue%20-%20part%201.png)
 
 And now it's here:
-
+[div background color issue - Part 2](assets/images/div%20background%20color%20issue%20-%20part%202.png)
 
 This allowed me to target a different background-colour property for the divs like this:
+[div background color issue - Part 3](assets/images/div%20background%20color%20issue%20-%20part%203.png)
 
 
-
-
-
-
-
+[Lilypot's Library Sign Up Page](assets/images/Lilypots-Library-sign-up%20page.png)
 My sign-up page now looks a lot clearer and easier to read and best of all nothing like the run-through project while still maintaining a simple yet classy nature. Boom!
 
 
-
+[Events images](assets/images/Lilypots-Library-events.png)
 Pretty sure these images speak for themselves (and though they will in future have links to other pages) I really think they can be appreciated without text on them. Besides the text really takes away from the experience. 
+In hindsight and probably a bit of foresight too, I'll stick the text in a white box and put it in the middle of each div so that users will be able to click on the image and it will take them to a separate page that corresponds with the image. I do agree that there is too much clashing. 
 
+Another challenge in building this website is moving the footer to the bottom of the page. The problem may be due to the margin. 
+[Footer issue](assets/images/footer%20issue.png) 
+On reflection, it's actually due to the height. It's also worth pointing out that when this is finished it will contain better images than it currently does.
 
+I have put this project through it's validator paces so often that it genuinely no longer surprises me when I still have errors. I wish I didn't but the fact there is always work to be done on projects like this just feed my un-satisfied perfectionist brain to work on it for hours at a time... accompanied by plenty of chin-scratching, as is par for the course...
+[Full Results of W3C Validator test](assets/images/full%20html%20w3c%20validator%20results%20-%20part%202.png)
 
-My last challenge in building this website is moving the footer to the bottom of the page. The problem may be due to the margin. On reflection, it's actually due to the height. 
-
+This is also an opportune moment reader, to remind myself that first and foremost this project is in fact a mobile-first one and so below are a selection of screen-shots to demonstrate how this looks in real-life. 
+[Mobile First - Part 1](assets/images/mobile%20-first%20part%201.png)
+[Mobile First - Part 2](assets/images/mobile-first%20part%202.png)
+[Mobile First - Part 3](assets/images/mobile%20-first%20part%203.png)
+[Mobile First - Part 4](assets/images/mobile-first%20part%204.png)
+[Mobile First - Part 5](assets/images/mobile-first%20part%205.png)
+[Mobile First - Part 6](assets/images/mobile-first%20part%206.png)
 
 ## Tech/Framework used: 
 # Languages: 
